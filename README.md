@@ -5,10 +5,6 @@ This is the solutions  to the [Java Koans](https://github.com/matyb/java-koans).
 
 Running Instructions:
 =====================
-* Download and unarchive the contents of the most recent java-koans in development from:
-https://github.com/matyb/java-koans/archive/master.zip
-* Open a terminal and cd to the directory you unarchived:
-```cd <the directory you just unarchived>```
 * Within it you'll find:
     * *koans*: this directory contains the application and its lessons, it is all that is needed to advance through the koans themselves and **it can be distributed independently**
     * *lib*: this directory contains the code the koans engine is comprised of and built with
