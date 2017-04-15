@@ -10,13 +10,8 @@ Running Instructions:
     * *lib*: this directory contains the code the koans engine is comprised of and built with
     * *gradle*: wrapper for build library used to build koans source, setup project files in eclipse/idea, run tests, etc. you probably don't need to touch anything in here
 * Change directory to the koans directory: ```cd koans```
-* If you are using windows enter: ```run.bat``` or ```./run.sh``` if you are using Mac or Linux
+* Run in the shell ```./run.sh```
 
-Developing a Koan:
-==================
-* Follow any of the existing koans as an example to create a new class with koan methods (indicated by the @Koan annotation, they're public and specify no arguments)
-* Define the order the koan suite (if it's new) will run in the koans/app/config/PathToEnlightenment.xml file
-* Optionally you may use dynamic content in your lesson, examples are located in the XmlVariableInjector class (and Test) and the AboutKoans.java file
 
 Something's wrong:
 ==================
